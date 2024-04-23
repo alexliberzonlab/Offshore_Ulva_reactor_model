@@ -54,7 +54,7 @@ researchpy==0.3.2
 SALib==1.4.5
 scikit-learn==1.0.1
 scikit-posthocs==0.6.7
-scipy @ file:///C:/ci/scipy_1630606917240/work
+scipy
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 sip==4.19.13
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
